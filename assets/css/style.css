@@ -68,6 +68,16 @@ h1 {
   letter-spacing: -0.05em;
 }
 
+.sosmed-title {
+  font-family: "Inter", Arial, sans-serif;
+  font-weight: 800;
+}
+
+.onlyme-title {
+  font-family: "Inter", Arial, sans-serif;
+  font-weight: 800;
+}
+
 .profile-actions {
   display: flex;
   justify-content: center;
